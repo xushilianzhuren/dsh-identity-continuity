@@ -1,0 +1,6 @@
+- insert:
+    - id: dsh-identity-continuity
+      name: 'dsh-identity-continuity'
+      config:
+        enabled: true
+        tool: true
